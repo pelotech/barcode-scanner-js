@@ -1,0 +1,23 @@
+{
+  "name": "barcode-scanner",
+  "version": "1.0.0",
+  "description": "A very simple pure JS library to allow use of a USB barcode scanner via standard eventing",
+  "main": "src/barcode-scanner.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pelotech/barcode-scanner-js.git"
+  },
+  "keywords": [
+    "barcode",
+    "scanner",
+    "HID"
+  ],
+  "author": "Pelotech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pelotech/barcode-scanner-js/issues"
+  },
+  "homepage": "https://github.com/pelotech/barcode-scanner-js#readme"
+}
